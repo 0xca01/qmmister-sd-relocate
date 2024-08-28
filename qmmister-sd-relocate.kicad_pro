@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.4,
-          "width": 1.2
+          "height": 1.6,
+          "width": 0.7
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "qmmr-sd-ext.kicad_pro",
+    "filename": "qmmister-sd-relocate.kicad_pro",
     "version": 1
   },
   "net_settings": {
